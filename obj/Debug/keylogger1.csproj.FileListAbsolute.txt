@@ -1,0 +1,7 @@
+D:\webasp\keylogger1\bin\Debug\keylogger1.exe.config
+D:\webasp\keylogger1\bin\Debug\keylogger1.exe
+D:\webasp\keylogger1\bin\Debug\keylogger1.pdb
+D:\webasp\keylogger1\obj\Debug\keylogger1.csproj.AssemblyReference.cache
+D:\webasp\keylogger1\obj\Debug\keylogger1.csproj.CoreCompileInputs.cache
+D:\webasp\keylogger1\obj\Debug\keylogger1.exe
+D:\webasp\keylogger1\obj\Debug\keylogger1.pdb
